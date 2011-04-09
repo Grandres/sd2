@@ -377,13 +377,13 @@ extern void AddSC_boss_auriaya();
 extern void AddSC_boss_freya();
 extern void AddSC_boss_hodir();
 extern void AddSC_boss_ignis();
-extern void AddSC_boss_iron_council();
+// extern void AddSC_boss_iron_council();
 extern void AddSC_boss_kologarn();
-extern void AddSC_boss_leviathan();
+// extern void AddSC_boss_leviathan();
 extern void AddSC_boss_mimiron();
 extern void AddSC_boss_razorscale();
 extern void AddSC_boss_thorim();
-extern void AddSC_boss_vezax();
+// extern void AddSC_boss_vezax();
 extern void AddSC_boss_xt002();
 extern void AddSC_boss_yogg_saron();
 extern void AddSC_instance_ulduar();
@@ -450,7 +450,7 @@ extern void AddSC_instance_ruby_sanctum();                  // Ruby Sanctum
 extern void AddSC_ruby_sanctum();
 extern void AddSC_boss_halion();
 extern void AddSC_boss_ragefire();
-extern void AddSC_boss_zarithian();
+// extern void AddSC_boss_zarithian();
 extern void AddSC_boss_baltharus();
 
 //outland
@@ -896,13 +896,13 @@ void AddScripts()
     AddSC_boss_freya();
     AddSC_boss_hodir();
     AddSC_boss_ignis();
-    AddSC_boss_iron_council();
+    // AddSC_boss_iron_council();
     AddSC_boss_kologarn();
-    AddSC_boss_leviathan();
+    // AddSC_boss_leviathan();
     AddSC_boss_mimiron();
     AddSC_boss_razorscale();
     AddSC_boss_thorim();
-    AddSC_boss_vezax();
+    // AddSC_boss_vezax();
     AddSC_boss_xt002();
     AddSC_boss_yogg_saron();
     AddSC_instance_ulduar();
@@ -939,7 +939,7 @@ void AddScripts()
     AddSC_boss_lavanthor();
     AddSC_violet_hold();
 
-    AddSC_instance_icecrown_spire();
+    // AddSC_instance_icecrown_spire();
     AddSC_icecrown_spire();
     AddSC_icecrown_teleporter();
     AddSC_boss_lord_marrowgar();
@@ -969,7 +969,7 @@ void AddScripts()
     AddSC_ruby_sanctum();
     AddSC_boss_halion();
     AddSC_boss_ragefire();
-    AddSC_boss_zarithian();
+    //AddSC_boss_zarithian();
     AddSC_boss_baltharus();
 
     //outland
